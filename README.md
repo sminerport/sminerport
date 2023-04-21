@@ -55,9 +55,19 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 
 ## 🌟 Featured Projects
 
-### [Project 1](https://github.com/username/project1)
+### [Project 1: **Word2Vec with TensorFlow 2.0**](https://github.com/sminerport/word2vec-skipgram-tensorflow)
 
-Short description of Project 1. What problem does it solve? What technologies were used?
+**Short description:** This project is an implementation of the Word2Vec algorithm using TensorFlow 2.0 to compute vector representations of words. The Word2Vec model used is the Skip-Gram model, which is trained on a small chunk of Wikipedia articles (the text8 dataset).
+
+**Problem it solves:** Word2Vec is a popular word embedding technique that represents words as vectors in a high-dimensional space. These embeddings can be used in various natural language processing tasks, such as sentiment analysis, document classification, and machine translation. The main idea behind Word2Vec is that words with similar meanings tend to occur in similar contexts.
+
+**Technologies used:**
+- Python 3
+- TensorFlow 2.0
+- NumPy
+- urllib
+- zipfile
+- Text8 dataset
 
 ### [Project 2](https://github.com/username/project2)
 
