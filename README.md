@@ -69,9 +69,15 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - zipfile
 - Text8 dataset
 
-### [Project 2](https://github.com/username/project2)
+### [Project 2: **Text Augmentation using Back-Translation**](https://github.com/sminerport/back-translation-text-augmentation)
 
-Short description of Project 2. What problem does it solve? What technologies were used?
+**Short description:** This repository contains a Python script that leverages the NLPAug library and round-trip translation (RTT) technique to augment text datasets. The script processes TXT files in the "data/" folder, translating text to another language and back, creating augmented versions. The augmented dataset enhances training data for natural language processing tasks like chatbot training or text classification.
+
+**Problem it solves:** Text augmentation is a technique used to expand or modify existing text data in a way that increases the variety and quantity of training data for natural language processing tasks. This back-translation augmentation technique helps create more diverse training data, improving the performance of NLP models in tasks like text classification, sentiment analysis, named entity recognition, machine translation, chatbot training, and question-answering systems.
+
+**Technologies used:**
+- Python
+- NLPAug library
 
 ## 📧 Contact
 
