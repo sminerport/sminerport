@@ -19,12 +19,13 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 
 ## 🏆 Awards and Certifications
 
-- Software Developer Certification (May 2016) - Red Rocks Community College
-- Programming Specialist Certification (August 2017) - Red Rocks Community College
-- [Applied Data Analytics](https://www.credly.com/badges/1150b6d6-57fc-41f1-b608-bf3d3a242ab8) - SAS and Colorado State University Global (December 2020)
-- [Business Intelligence and Performance Management](https://www.credly.com/badges/87f931c3-8460-4396-8dbe-0df9f24fdfff) - SAS and Colorado State University Global (December 2020)
-- [Predictive Analytics Management](https://www.credly.com/badges/e879fcea-077f-4869-b582-48f9632f568b) - SAS and Colorado State University Global (December 2020)
 - 2022 ANNY Award - Contributed to Echo Global Logistics winning the [Excellence in Analytics Award](http://iiasymposium.com/index.php/anny/) for their Digital Freight Marketplace program
+- [Predictive Analytics Management](https://www.credly.com/badges/e879fcea-077f-4869-b582-48f9632f568b) - SAS and Colorado State University Global (December 2020)
+- [Business Intelligence and Performance Management](https://www.credly.com/badges/87f931c3-8460-4396-8dbe-0df9f24fdfff) - SAS and Colorado State University Global (December 2020)
+- [Applied Data Analytics](https://www.credly.com/badges/1150b6d6-57fc-41f1-b608-bf3d3a242ab8) - SAS and Colorado State University Global (December 2020)
+- Programming Specialist Certification (August 2017) - Red Rocks Community College
+- Software Developer Certification (May 2016) - Red Rocks Community College
+
 
 ## 🎓 Education
 
