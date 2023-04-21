@@ -88,6 +88,21 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 **Technologies used:**
 - Python 3.x
 
+### [Project 4: **Boston Housing Analysis**](https://github.com/sminerport/boston-housing-analysis)
+
+**Short description:** This repository contains a comprehensive analysis of the Boston Housing dataset using various regression models, including Linear Regression, Lasso Regression, and Ridge Regression. The project explores the dataset, visualizes the relationships between features and target variables, and evaluates the performance of the different regression models, providing valuable insights into the housing market in Boston.
+
+**Problem it solves:** The analysis of the Boston Housing dataset aims to identify factors that influence housing prices and evaluate the effectiveness of different regression models for predicting housing prices based on given features. By understanding the relationships between variables in the housing market, stakeholders such as homeowners, real estate agents, and policymakers can make informed decisions about the housing market.
+
+**Technologies used:**
+- Python
+- numpy
+- pandas (version 1.5.3)
+- matplotlib
+- seaborn
+- scikit-learn (version lower than 1.0)
+
+
 ## 📧 Contact
 
 - Email: [scott.miner@csuglobal.edu](mailto:scott.miner@csuglobal.edu)
