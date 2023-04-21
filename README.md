@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Scott
+# sminerport
 
 Hi, I'm Scott, an award-winning data analyst and software engineer. I hold a Master of Science in Data Analytics, specializing in Artificial Intelligence and Machine Learning, as well as certifications in Software Development and Programming Specialist from Red Rocks Community College. Welcome to my GitHub portfolio, where you'll find some of the projects I've worked on and the technologies I've used.
 
