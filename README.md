@@ -79,6 +79,15 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - Python
 - NLPAug library
 
+### [Project 3: **AVL Tree Implementation**](https://github.com/sminerport/avl-tree-implementation)
+
+**Short description:** This repository contains the code for implementing an AVL tree (balanced binary search tree) in Python. The implementation covers the Node and Tree classes, build_tree() method, and the insert() and delete() methods for inserting and removing nodes in the AVL tree.
+
+**Problem it solves:** AVL trees are a type of self-balancing binary search tree that automatically maintain their balance as new nodes are inserted or removed. This property ensures that the tree remains efficient for searching, insertion, and deletion operations, making it useful for various applications, such as databases and file systems.
+
+**Technologies used:**
+- Python 3.x
+
 ## 📧 Contact
 
 - Email: [scott.miner@csuglobal.edu](mailto:scott.miner@csuglobal.edu)
