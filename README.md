@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Scott Miner
 
-Hi, I'm Scott, an award-winning data analyst and software engineer with 8 years of experience in data warehousing, machine learning algorithms, and software engineering best practices. I hold a Master of Science in Data Analytics, specializing in Artificial Intelligence and Machine Learning. Welcome to my GitHub portfolio, where you'll find some of the projects I've worked on and the technologies I've used.
+Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years of experience in data warehousing, machine learning algorithms, and software engineering best practices. I hold a Master of Science in Data Analytics, specializing in Artificial Intelligence and Machine Learning. Welcome to my GitHub portfolio, where you'll find some of the projects I've worked on and the technologies I've used.
 
 ## 🏆 Awards and Certifications
 
