@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 
 # Scott Miner
 
-Hi, I'm Scott, an award-winning data analyst and software engineer with 8 years of experience in data warehousing, machine learning algorithms, and software engineering best practices. I hold a Master of Science in Data Analytics, specializing in Artificial Intelligence and Machine Learning. Welcome to my GitHub portfolio, where you'll find some of the projects I've worked on and the technologies I've used.
+Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years of experience in data warehousing, machine learning algorithms, and software engineering best practices. I hold a Master of Science in Data Analytics, specializing in Artificial Intelligence and Machine Learning. Welcome to my GitHub portfolio, where you'll find some of the projects I've worked on and the technologies I've used.
 
 ## 🏆 Awards and Certifications
 
-- Software Developer Certification (4.0 GPA) - Red Rocks Community College
-- Programming Specialist Certification (4.0 GPA) - Red Rocks Community College
-- Applied Data Analytics - SAS and Colorado State University Global (December 2020)
-- Business Intelligence and Performance Management - SAS and Colorado State University Global (December 2020)
-- Predictive Analytics Management - SAS and Colorado State University Global (December 2020)
+- Software Developer Certification (May 2016) - Red Rocks Community College
+- Programming Specialist Certification (August 2017) - Red Rocks Community College
+- [Applied Data Analytics](https://www.credly.com/badges/1150b6d6-57fc-41f1-b608-bf3d3a242ab8) - SAS and Colorado State University Global (December 2020)
+- [Business Intelligence and Performance Management](https://www.credly.com/badges/87f931c3-8460-4396-8dbe-0df9f24fdfff) - SAS and Colorado State University Global (December 2020)
+- [Predictive Analytics Management](https://www.credly.com/badges/e879fcea-077f-4869-b582-48f9632f568b) - SAS and Colorado State University Global (December 2020)
+- 2022 ANNY Award - Contributed to Echo Global Logistics winning the [Excellence in Analytics Award](http://iiasymposium.com/index.php/anny/) for their Digital Freight Marketplace program
 
 ## 🎓 Education
 
@@ -46,8 +47,8 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 8 years 
 
 ## 🔧 Technical Skills
 
-- **Programming Languages:** Python, R, SAS, SQL, Java, C++, C#, and Tableau
-- **Frameworks and Libraries:** TensorFlow, ML Frameworks & Libraries
+- **Programming Languages:** Python, R, SAS, SQL, Java, C++, C#, JavaScript, HTML, CSS, and Tableau
+- **Frameworks and Libraries:** TensorFlow, ML Frameworks & Libraries, Python Libraries
 - **Tools:** Git, Docker, Kubernetes, Microsoft Azure, Microsoft Office Suite, SSIS, SSMS, Visual Studio, VSCode
 - **Databases:** Amazon Redshift, Oracle, PostgreSQL, SQL Server
 
