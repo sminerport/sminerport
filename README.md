@@ -102,6 +102,16 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - seaborn
 - scikit-learn (version lower than 1.0)
 
+### [Project 5: **Universal-EDA**](https://github.com/sminerport/universal-EDA)
+
+**Short description:** Universal-EDA is a Python library that provides an easy-to-use interface for Exploratory Data Analysis (EDA) and data loading. It supports various datasets and helps streamline the EDA process.
+
+**Problem it solves:** This project aims to simplify and streamline the EDA process by providing a unified interface for working with various datasets. Universal-EDA allows users to load common datasets, perform EDA, and convert DataFrames to CSV files, making it easier to perform data analysis and prepare data for machine learning tasks.
+
+**Technologies used:**
+- Python
+- pandas
+- scikit-learn
 
 ## 📧 Contact
 
