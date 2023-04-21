@@ -38,7 +38,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer. I hold a Mas
 
 - While working towards my Master's degree, I watched [The Great Hack on Netflix](https://www.netflix.com/title/80117542) and learned that data has surpassed oil as the world's most valuable asset.
 
-- I have accumulated 88 credits toward a degree in Jazz Studies (Guitar) at the University of Maryland College Park, studying under the late Chris Vadala. [Learn more about Chris Vadala here.](https://arhu.umd.edu/news/chris-vadala-jazz-legend-scholar-and-educator-dies-age-70)
+  [![Content Preview](images/content_preview.png)](https://example.com/embedded-content-url)
 
 ## Skills
 
@@ -59,6 +59,4 @@ Short description of Project 2. What problem does it solve? What technologies we
 
 ## Contact
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/your-username/)
-- Twitter: [https://twitter.com/your_username](https://twitter.com/your_username)
+- Email: [scott.miner@csuglobal.edu](mailto:scott.miner@csuglobal.com)
