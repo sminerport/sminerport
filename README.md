@@ -55,7 +55,22 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 
 ## 🌟 Featured Projects
 
-### [Project 1: **Word2Vec with TensorFlow 2.0**](https://github.com/sminerport/word2vec-skipgram-tensorflow)
+### [Project 1: **K-Nearest Neighbors Classifier**](https://github.com/sminerport/iris-knn-classifier)
+
+**Short description:** This repository contains a Python implementation of the k-nearest neighbors (KNN) classification algorithm. The project includes preprocessing, cross-validation, and the KNN classifier itself, along with a sample dataset to demonstrate its usage. The implementation is modular and easy to use, making it suitable for a wide range of classification tasks.
+
+**Problem it solves:** The k-nearest neighbors algorithm is a versatile and easy-to-understand classification method that can be applied to a variety of problems in machine learning, such as image recognition, text classification, and recommendation systems. By implementing the KNN classifier, this project provides a foundation for users to apply the algorithm to their own datasets and understand its inner workings.
+
+**Technologies used:**
+- Python 3.x
+- CSV file handling
+- Euclidean distance calculation
+- Preprocessing and data loading
+- Cross-validation for model evaluation
+
+**Sample use case:** The repository includes a sample dataset (in CSV format) to demonstrate the usage of the KNN classifier. Users can follow along with the example to understand how to preprocess the data, split it into training and test sets, and apply the KNN classifier to make predictions. The example also showcases the use of cross-validation for model evaluation and selection.
+
+### [Project 2: **Word2Vec with TensorFlow 2.0**](https://github.com/sminerport/word2vec-skipgram-tensorflow)
 
 **Short description:** This project is an implementation of the Word2Vec algorithm using TensorFlow 2.0 to compute vector representations of words. The Word2Vec model used is the Skip-Gram model, which is trained on a small chunk of Wikipedia articles (the text8 dataset).
 
@@ -69,7 +84,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - zipfile
 - Text8 dataset
 
-### [Project 2: **Text Augmentation using Back-Translation**](https://github.com/sminerport/back-translation-text-augmentation)
+### [Project 3: **Text Augmentation using Back-Translation**](https://github.com/sminerport/back-translation-text-augmentation)
 
 **Short description:** This repository contains a Python script that leverages the NLPAug library and round-trip translation (RTT) technique to augment text datasets. The script processes TXT files in the "data/" folder, translating text to another language and back, creating augmented versions. The augmented dataset enhances training data for natural language processing tasks like chatbot training or text classification.
 
@@ -79,7 +94,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - Python
 - NLPAug library
 
-### [Project 3: **AVL Tree Implementation**](https://github.com/sminerport/avl-tree-implementation)
+### [Project 4: **AVL Tree Implementation**](https://github.com/sminerport/avl-tree-implementation)
 
 **Short description:** This repository contains the code for implementing an AVL tree (balanced binary search tree) in Python. The implementation covers the Node and Tree classes, build_tree() method, and the insert() and delete() methods for inserting and removing nodes in the AVL tree.
 
@@ -88,7 +103,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 **Technologies used:**
 - Python 3.x
 
-### [Project 4: **Boston Housing Analysis**](https://github.com/sminerport/boston-housing-analysis)
+### [Project 5: **Boston Housing Analysis**](https://github.com/sminerport/boston-housing-analysis)
 
 **Short description:** This repository contains a comprehensive analysis of the Boston Housing dataset using various regression models, including Linear Regression, Lasso Regression, and Ridge Regression. The project explores the dataset, visualizes the relationships between features and target variables, and evaluates the performance of the different regression models, providing valuable insights into the housing market in Boston.
 
@@ -102,7 +117,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - seaborn
 - scikit-learn (version lower than 1.0)
 
-### [Project 5: **Universal-EDA**](https://github.com/sminerport/universal-EDA)
+### [Project 6: **Universal-EDA**](https://github.com/sminerport/universal-EDA)
 
 **Short description:** Universal-EDA is a Python library that provides an easy-to-use interface for Exploratory Data Analysis (EDA) and data loading. It supports various datasets and helps streamline the EDA process.
 
