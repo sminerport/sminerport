@@ -132,4 +132,5 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 
 - Email: [scott.miner@csuglobal.edu](mailto:scott.miner@csuglobal.edu)
 - Phone: 720.660.7204
-- Website: [https://scottminer.netlify.app](https://scottminer.netlify.app)
+- 😅 If you've made it this far, take a peek into my musical taste on my [last.fm profile](https://last.fm/user/scottdatascienc) - it keeps a record of the music I love, just for fun! Please, no judging. 😄
+- Website: 💻🚀 Explore [my personal website](https://scottminer.netlify.app), the front-end for my GitHub development, showcasing more portfolio projects that I'm migrating to GitHub. 
