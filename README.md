@@ -64,7 +64,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 ## 🌟 Featured Projects
 
 - [**K-Nearest Neighbors Classifier**](#project-1-k-nearest-neighbors-classifier) - A Python implementation of the KNN classification algorithm, including preprocessing, cross-validation, and a sample dataset for demonstration.
-- [**Word2Vec with TensorFlow 2.0**](#project-2-word2vec-with-tensorflow-20) - An implementation of the Word2Vec algorithm using TensorFlow 2.0 to compute vector representations of words, trained on the text8 dataset.
+- [**Word2Vec with TensorFlow 2.0**](#project-2-word2vec-with-tensorflow-2-0) - An implementation of the Word2Vec algorithm using TensorFlow 2.0 to compute vector representations of words, trained on the text8 dataset.
 - [**Text Augmentation using Back-Translation**](#project-3-text-augmentation-using-back-translation) - A Python script that leverages the NLPAug library and round-trip translation technique to augment text datasets for various NLP tasks.
 - [**AVL Tree Implementation**](#project-4-avl-tree-implementation) - A Python implementation of an AVL tree (balanced binary search tree) that automatically maintains balance as new nodes are inserted or removed.
 - [**Boston Housing Analysis**](#project-5-boston-housing-analysis) - A comprehensive analysis of the Boston Housing dataset using various regression models, providing valuable insights into the housing market in Boston.
