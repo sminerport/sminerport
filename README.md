@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years of experience in data warehousing, machine learning algorithms, and software engineering best practices. I hold a Master of Science in Data Analytics, specializing in Artificial Intelligence and Machine Learning. Welcome to my GitHub portfolio, where you'll find some of the projects I've worked on and the technologies I've used.
 
+## Table of Contents
+1. [Awards and Certifications](#-awards-and-certifications)
+2. [Education](#-education)
+3. [Experience](#-experience)
+4. [Technical Skills](#-technical-skills)
+5. [Featured Projects](#-featured-projects)
+6. [Contact](#-contact)
+
 ## 🏆 Awards and Certifications
 
 - 2022 ANNY Award - Contributed to Echo Global Logistics winning the [Excellence in Analytics Award](http://iiasymposium.com/index.php/anny/) for their Digital Freight Marketplace program
@@ -126,6 +134,28 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 **Technologies used:**
 - Python
 - pandas
+- scikit-learn
+
+Project 7: Sequence Prediction ANN
+Short description: This repository contains a Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence. The ANN is built using the Python NumPy library and trains using backpropagation. The network's performance is analyzed using Mean Squared Error (MSE) over a customizable number of training epochs.
+
+Problem it solves: Predicting the next number in a sequence is a fundamental problem in various fields, such as finance, weather forecasting, and data analysis. This project demonstrates the use of a basic 2-layer ANN for sequence prediction, providing a foundation for understanding neural networks and their applications in solving real-world problems.
+
+Technologies used:
+
+Python 3.x
+NumPy
+scikit-learn
+
+### Project 7: [Sequence Prediction ANN](https://github.com/sminerport/sequence-prediction-ann)
+
+**Short description:** This repository contains a Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence. The ANN is built using the Python NumPy library and trains using backpropagation. The network's performance is analyzed using Mean Squared Error (MSE) over a customizable number of training epochs.
+
+**Problem it solves:** Predicting the next number in a sequence is a fundamental problem in various fields, such as finance, weather forecasting, and data analysis. This project demonstrates the use of a basic 2-layer ANN for sequence prediction, providing a foundation for understanding neural networks and their applications in solving real-world problems.
+
+**Technologies used:**
+- Python 3.x
+- NumPy
 - scikit-learn
 
 ## 📧 Contact
