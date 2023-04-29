@@ -63,15 +63,15 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 
 ## 🌟 Featured Projects
 
-- [**K-Nearest Neighbors Classifier**](#project-1-k-nearest-neighbors-classifier) - A Python implementation of the KNN classification algorithm, including preprocessing, cross-validation, and a sample dataset for demonstration.
-- [**Word2Vec with TensorFlow 2.0**](#project-2-word2vec-with-tensorflow-2-0) - An implementation of the Word2Vec algorithm using TensorFlow 2.0 to compute vector representations of words, trained on the text8 dataset.
-- [**Text Augmentation using Back-Translation**](#project-3-text-augmentation-using-back-translation) - A Python script that leverages the NLPAug library and round-trip translation technique to augment text datasets for various NLP tasks.
-- [**AVL Tree Implementation**](#project-4-avl-tree-implementation) - A Python implementation of an AVL tree (balanced binary search tree) that automatically maintains balance as new nodes are inserted or removed.
-- [**Boston Housing Analysis**](#project-5-boston-housing-analysis) - A comprehensive analysis of the Boston Housing dataset using various regression models, providing valuable insights into the housing market in Boston.
-- [**Universal-EDA**](#project-6-universal-eda) - A Python library that provides an easy-to-use interface for Exploratory Data Analysis (EDA) and data loading, supporting various datasets.
-- [**Sequence Prediction ANN**](#project-7-sequence-prediction-ann) - A Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence, using NumPy and scikit-learn.
+- [**K-Nearest Neighbors Classifier**](#1-k-nearest-neighbors-classifier) - A Python implementation of the KNN classification algorithm, including preprocessing, cross-validation, and a sample dataset for demonstration.
+- [**Word2Vec with TensorFlow 2.0**](#2-word2vec-with-tensorflow-2-0) - An implementation of the Word2Vec algorithm using TensorFlow 2.0 to compute vector representations of words, trained on the text8 dataset.
+- [**Text Augmentation using Back-Translation**](#3-text-augmentation-using-back-translation) - A Python script that leverages the NLPAug library and round-trip translation technique to augment text datasets for various NLP tasks.
+- [**AVL Tree Implementation**](#4-avl-tree-implementation) - A Python implementation of an AVL tree (balanced binary search tree) that automatically maintains balance as new nodes are inserted or removed.
+- [**Boston Housing Analysis**](#5-boston-housing-analysis) - A comprehensive analysis of the Boston Housing dataset using various regression models, providing valuable insights into the housing market in Boston.
+- [**Universal-EDA**](#6-universal-eda) - A Python library that provides an easy-to-use interface for Exploratory Data Analysis (EDA) and data loading, supporting various datasets.
+- [**Sequence Prediction ANN**](#7-sequence-prediction-ann) - A Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence, using NumPy and scikit-learn.
 
-### <a id="project-1-k-nearest-neighbors-classifier"></a>Project 1: [K-Nearest Neighbors Classifier](https://github.com/sminerport/iris-knn-classifier)
+### 1. [K-Nearest Neighbors Classifier](https://github.com/sminerport/iris-knn-classifier)
 
 **Short description:** This repository contains a Python implementation of the k-nearest neighbors (KNN) classification algorithm. The project includes preprocessing, cross-validation, and the KNN classifier itself, along with a sample dataset to demonstrate its usage. The implementation is modular and easy to use, making it suitable for a wide range of classification tasks.
 
@@ -86,7 +86,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 
 **Sample use case:** The repository includes a sample dataset (in CSV format) to demonstrate the usage of the KNN classifier. Users can follow along with the example to understand how to preprocess the data, split it into training and test sets, and apply the KNN classifier to make predictions. The example also showcases the use of cross-validation for model evaluation and selection.
 
-### <a id="project-2-word2vec-with-tensorflow-2-0"></a>Project 2: [Word2Vec with TensorFlow 2.0](https://github.com/sminerport/word2vec-skipgram-tensorflow)
+### 2. [Word2Vec with TensorFlow 2.0](https://github.com/sminerport/word2vec-skipgram-tensorflow)
 
 **Short description:** This project is an implementation of the Word2Vec algorithm using TensorFlow 2.0 to compute vector representations of words. The Word2Vec model used is the Skip-Gram model, which is trained on a small chunk of Wikipedia articles (the text8 dataset).
 
@@ -100,7 +100,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - zipfile
 - Text8 dataset
 
-### <a id="project-3-text-augmentation-using-back-translation"></a>Project 3: [Text Augmentation using Back-Translation](https://github.com/sminerport/back-translation-text-augmentation)
+### 3. [Text Augmentation using Back-Translation](https://github.com/sminerport/text-augmentation-back-translation)
 
 **Short description:** This repository contains a Python script that leverages the NLPAug library and round-trip translation (RTT) technique to augment text datasets. The script processes TXT files in the "data/" folder, translating text to another language and back, creating augmented versions. The augmented dataset enhances training data for natural language processing tasks like chatbot training or text classification.
 
@@ -110,7 +110,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - Python
 - NLPAug library
 
-### <a id="project-4-avl-tree-implementation"></a>Project 4: [AVL Tree Implementation](https://github.com/sminerport/avl-tree-implementation)
+### 4. [AVL Tree Implementation](https://github.com/sminerport/avl-tree-implementation)
 
 **Short description:** This repository contains the code for implementing an AVL tree (balanced binary search tree) in Python. The implementation covers the Node and Tree classes, build_tree() method, and the insert() and delete() methods for inserting and removing nodes in the AVL tree.
 
@@ -119,7 +119,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 **Technologies used:**
 - Python 3.x
 
-### <a id="project-5-boston-housing-analysis"></a>Project 5: [Boston Housing Analysis](https://github.com/sminerport/boston-housing-analysis)
+### 5. [Boston Housing Analysis](https://github.com/sminerport/boston-housing-analysis)
 
 **Short description:** This repository contains a comprehensive analysis of the Boston Housing dataset using various regression models, including Linear Regression, Lasso Regression, and Ridge Regression. The project explores the dataset, visualizes the relationships between features and target variables, and evaluates the performance of the different regression models, providing valuable insights into the housing market in Boston.
 
@@ -133,7 +133,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - seaborn
 - scikit-learn (version lower than 1.0)
 
-### <a id="project-6-universal-eda"></a>Project 6: [Universal-EDA](https://github.com/sminerport/universal-EDA)
+### 6. [Universal-EDA](https://github.com/sminerport/universal-eda)
 
 **Short description:** Universal-EDA is a Python library that provides an easy-to-use interface for Exploratory Data Analysis (EDA) and data loading. It supports various datasets and helps streamline the EDA process.
 
@@ -144,7 +144,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - pandas
 - scikit-learn
 
-### <a id="project-7-sequence-prediction-ann"></a>Project 7: [Sequence Prediction ANN](https://github.com/sminerport/sequence-prediction-ann)
+### 7. [Sequence Prediction ANN](https://github.com/sminerport/sequence-prediction-ann)
 
 **Short description:** This repository contains a Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence. The ANN is built using the Python NumPy library and trains using backpropagation. The network's performance is analyzed using Mean Squared Error (MSE) over a customizable number of training epochs.
 
