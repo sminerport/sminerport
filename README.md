@@ -23,7 +23,15 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 3. [Experience](#-experience)
 4. [Technical Skills](#-technical-skills)
 5. [Featured Projects](#-featured-projects)
+   1. [K-Nearest Neighbors Classifier](#1-k-nearest-neighbors-classifier)
+   2. [Word2Vec with TensorFlow 2.0](#2-word2vec-with-tensorflow-20)
+   3. [Text Augmentation using Back-Translation](#3-text-augmentation-using-back-translation)
+   4. [AVL Tree Implementation](#4-avl-tree-implementation)
+   5. [Boston Housing Analysis](#5-boston-housing-analysis)
+   6. [Universal-EDA](#6-universal-eda)
+   7. [Sequence Prediction ANN](#7-sequence-prediction-ann)
 6. [Contact](#-contact)
+
 
 ## 🏆 Awards and Certifications
 
