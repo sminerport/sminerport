@@ -71,7 +71,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - [**Universal-EDA**](#project-6-universal-eda) - A Python library that provides an easy-to-use interface for Exploratory Data Analysis (EDA) and data loading, supporting various datasets.
 - [**Sequence Prediction ANN**](#project-7-sequence-prediction-ann) - A Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence, using NumPy and scikit-learn.
 
-### [Project 1: **K-Nearest Neighbors Classifier**](https://github.com/sminerport/iris-knn-classifier)
+### <a id="project-1-k-nearest-neighbors-classifier"></a>Project 1: [K-Nearest Neighbors Classifier](https://github.com/sminerport/iris-knn-classifier)
 
 **Short description:** This repository contains a Python implementation of the k-nearest neighbors (KNN) classification algorithm. The project includes preprocessing, cross-validation, and the KNN classifier itself, along with a sample dataset to demonstrate its usage. The implementation is modular and easy to use, making it suitable for a wide range of classification tasks.
 
@@ -86,7 +86,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 
 **Sample use case:** The repository includes a sample dataset (in CSV format) to demonstrate the usage of the KNN classifier. Users can follow along with the example to understand how to preprocess the data, split it into training and test sets, and apply the KNN classifier to make predictions. The example also showcases the use of cross-validation for model evaluation and selection.
 
-### [Project 2: **Word2Vec with TensorFlow 2.0**](https://github.com/sminerport/word2vec-skipgram-tensorflow)
+### <a id="project-2-word2vec-with-tensorflow-2-0"></a>Project 2: [Word2Vec with TensorFlow 2.0](https://github.com/sminerport/word2vec-skipgram-tensorflow)
 
 **Short description:** This project is an implementation of the Word2Vec algorithm using TensorFlow 2.0 to compute vector representations of words. The Word2Vec model used is the Skip-Gram model, which is trained on a small chunk of Wikipedia articles (the text8 dataset).
 
@@ -100,7 +100,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - zipfile
 - Text8 dataset
 
-### [Project 3: **Text Augmentation using Back-Translation**](https://github.com/sminerport/back-translation-text-augmentation)
+### <a id="project-3-text-augmentation-using-back-translation"></a>Project 3: [Text Augmentation using Back-Translation](https://github.com/sminerport/back-translation-text-augmentation)
 
 **Short description:** This repository contains a Python script that leverages the NLPAug library and round-trip translation (RTT) technique to augment text datasets. The script processes TXT files in the "data/" folder, translating text to another language and back, creating augmented versions. The augmented dataset enhances training data for natural language processing tasks like chatbot training or text classification.
 
@@ -110,7 +110,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - Python
 - NLPAug library
 
-### [Project 4: **AVL Tree Implementation**](https://github.com/sminerport/avl-tree-implementation)
+### <a id="project-4-avl-tree-implementation"></a>Project 4: [AVL Tree Implementation](https://github.com/sminerport/avl-tree-implementation)
 
 **Short description:** This repository contains the code for implementing an AVL tree (balanced binary search tree) in Python. The implementation covers the Node and Tree classes, build_tree() method, and the insert() and delete() methods for inserting and removing nodes in the AVL tree.
 
@@ -119,7 +119,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 **Technologies used:**
 - Python 3.x
 
-### [Project 5: **Boston Housing Analysis**](https://github.com/sminerport/boston-housing-analysis)
+### <a id="project-5-boston-housing-analysis"></a>Project 5: [Boston Housing Analysis](https://github.com/sminerport/boston-housing-analysis)
 
 **Short description:** This repository contains a comprehensive analysis of the Boston Housing dataset using various regression models, including Linear Regression, Lasso Regression, and Ridge Regression. The project explores the dataset, visualizes the relationships between features and target variables, and evaluates the performance of the different regression models, providing valuable insights into the housing market in Boston.
 
@@ -133,7 +133,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - seaborn
 - scikit-learn (version lower than 1.0)
 
-### [Project 6: **Universal-EDA**](https://github.com/sminerport/universal-EDA)
+### <a id="project-6-universal-eda"></a>Project 6: [Universal-EDA](https://github.com/sminerport/universal-EDA)
 
 **Short description:** Universal-EDA is a Python library that provides an easy-to-use interface for Exploratory Data Analysis (EDA) and data loading. It supports various datasets and helps streamline the EDA process.
 
@@ -144,18 +144,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - pandas
 - scikit-learn
 
-Project 7: Sequence Prediction ANN
-Short description: This repository contains a Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence. The ANN is built using the Python NumPy library and trains using backpropagation. The network's performance is analyzed using Mean Squared Error (MSE) over a customizable number of training epochs.
-
-Problem it solves: Predicting the next number in a sequence is a fundamental problem in various fields, such as finance, weather forecasting, and data analysis. This project demonstrates the use of a basic 2-layer ANN for sequence prediction, providing a foundation for understanding neural networks and their applications in solving real-world problems.
-
-Technologies used:
-
-Python 3.x
-NumPy
-scikit-learn
-
-### Project 7: [Sequence Prediction ANN](https://github.com/sminerport/sequence-prediction-ann)
+### <a id="project-7-sequence-prediction-ann"></a>Project 7: [Sequence Prediction ANN](https://github.com/sminerport/sequence-prediction-ann)
 
 **Short description:** This repository contains a Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence. The ANN is built using the Python NumPy library and trains using backpropagation. The network's performance is analyzed using Mean Squared Error (MSE) over a customizable number of training epochs.
 
