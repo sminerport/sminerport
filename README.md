@@ -167,5 +167,5 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 
 - Email: [scott.miner@csuglobal.edu](mailto:scott.miner@csuglobal.edu)
 - Phone: 720.660.7204
-- 🎵[last.fm profile](https://last.fm/user/scottdatascienc) - Just for fun! No judging!🎵
+- 🎵[last.fm profile](https://last.fm/user/scottdatascienc) - Just for fun!🎵
 - 💻[Personal Website](https://scottminer.netlify.app) - Explore more Data Science projects!💻
