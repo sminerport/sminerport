@@ -166,7 +166,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - scikit-learn
 
 ### 8. [Naive Bayes Golf Prediction](https://github.com/sminerport/naive-bayes-golf-prediction)
-Short description: This repository contains a Python implementation of a Naive Bayes classifier to predict whether or not one will play golf based on the weather outlook. The project includes the Laplacian correction technique for handling zero-probability problems, along with UML diagrams for better code understanding and a sample dataset to demonstrate its usage.
+**Short description:** This repository contains a Python implementation of a Naive Bayes classifier to predict whether or not one will play golf based on the weather outlook. The project includes the Laplacian correction technique for handling zero-probability problems, along with UML diagrams for better code understanding and a sample dataset to demonstrate its usage.
 
 **Problem it solves:** The Naive Bayes algorithm is a well-known classification technique that can be applied to various predictive modeling problems. In this project, we demonstrate its usage in predicting whether golf will be played under different weather conditions. This not only provides a hands-on approach to understanding and implementing the Naive Bayes algorithm but also demonstrates the use of Laplacian correction in handling the zero-probability problem, which is a common issue in probabilistic models.
 
