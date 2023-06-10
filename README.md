@@ -30,6 +30,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
    5. [Boston Housing Analysis](#5-boston-housing-analysis)
    6. [Universal-EDA](#6-universal-eda)
    7. [Sequence Prediction ANN](#7-sequence-prediction-ann)
+   8. [Naive Bayes Golf Prediction](#8-naive-bayes-golf-prediction)
 6. [Contact](#-contact)
 
 
@@ -78,6 +79,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - [**Boston Housing Analysis**](#5-boston-housing-analysis) - A comprehensive analysis of the Boston Housing dataset using various regression models, providing valuable insights into the housing market in Boston.
 - [**Universal-EDA**](#6-universal-eda) - A Python library that provides an easy-to-use interface for Exploratory Data Analysis (EDA) and data loading, supporting various datasets.
 - [**Sequence Prediction ANN**](#7-sequence-prediction-ann) - A Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence, using NumPy and scikit-learn.
+- [**Naive Bayes Golf Prediction**](#8-naive-bayes-golf-prediction) - A Python implementation of a Naive Bayes classifier for predicting golf play based on the weather outlook, demonstrating the Laplacian correction technique, and incorporating UML diagrams for clear understanding.
 
 ### 1. [K-Nearest Neighbors Classifier](https://github.com/sminerport/iris-knn-classifier)
 
@@ -162,6 +164,19 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - Python 3.x
 - NumPy
 - scikit-learn
+
+### 8. [Naive Bayes Golf Prediction](https://github.com/sminerport/naive-bayes-golf-prediction)
+Short description: This repository contains a Python implementation of a Naive Bayes classifier to predict whether or not one will play golf based on the weather outlook. The project includes the Laplacian correction technique for handling zero-probability problems, along with UML diagrams for better code understanding and a sample dataset to demonstrate its usage.
+
+**Problem it solves:** The Naive Bayes algorithm is a well-known classification technique that can be applied to various predictive modeling problems. In this project, we demonstrate its usage in predicting whether golf will be played under different weather conditions. This not only provides a hands-on approach to understanding and implementing the Naive Bayes algorithm but also demonstrates the use of Laplacian correction in handling the zero-probability problem, which is a common issue in probabilistic models.
+
+**Technologies used:**
+- Python 3.x
+- scikit-learn
+- Pandas
+- PlantUML (for creating UML diagrams)
+
+**Sample use case:** The repository includes a sample dataset to demonstrate the usage of the Naive Bayes classifier. Users can follow along with the example to understand how to apply the Laplacian correction, create a frequency table, calculate likelihoods, and compute posterior probabilities for each class. The example also showcases the use of UML diagrams for understanding and visualizing the structure and workflow of the application.
 
 ## 📧 Contact
 
