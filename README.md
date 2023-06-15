@@ -31,7 +31,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
    6. [Universal-EDA](#6-universal-eda)
    7. [Sequence Prediction ANN](#7-sequence-prediction-ann)
    8. [Naive Bayes Golf Prediction](#8-naive-bayes-golf-prediction)
-   9. [8-Puzzle Solver](#9-eight-puzzle-solver)
+   9. [8-Puzzle Solver](#9-8-puzzle-solver)
 6. [Contact](#-contact)
 
 
@@ -81,7 +81,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - [**Universal-EDA**](#6-universal-eda) - A Python library that provides an easy-to-use interface for Exploratory Data Analysis (EDA) and data loading, supporting various datasets.
 - [**Sequence Prediction ANN**](#7-sequence-prediction-ann) - A Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence, using NumPy and scikit-learn.
 - [**Naive Bayes Golf Prediction**](#8-naive-bayes-golf-prediction) - A Python implementation of a Naive Bayes classifier for predicting golf play based on the weather outlook, demonstrating the Laplacian correction technique, and incorporating UML diagrams for clear understanding.
-- [**8-Puzzle Solver**](#9-eight-puzzle-solver) - A Python-based solution to solve the classic 8-puzzle game using the A* search algorithm, capable of checking puzzle solvability and calculating solution time. The project includes comprehensive diagrams for clear understanding and a user-friendly console interface.
+- [**8-Puzzle Solver**](#9-8-puzzle-solver) - A Python-based solution to solve the classic 8-puzzle game using the A* search algorithm, capable of checking puzzle solvability and calculating solution time. The project includes comprehensive diagrams for clear understanding and a user-friendly console interface.
 
 ### 1. [K-Nearest Neighbors Classifier](https://github.com/sminerport/iris-knn-classifier)
 
