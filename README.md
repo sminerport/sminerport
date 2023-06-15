@@ -31,6 +31,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
    6. [Universal-EDA](#6-universal-eda)
    7. [Sequence Prediction ANN](#7-sequence-prediction-ann)
    8. [Naive Bayes Golf Prediction](#8-naive-bayes-golf-prediction)
+   9. [8-Puzzle Solver](#9-eight-puzzle-solver)
 6. [Contact](#-contact)
 
 
