@@ -204,7 +204,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 **Technologies used:**
 
 - Python 2.6 (Pyke Legacy Expert System)
-- Pyke
+- Pyke (Legacy System, Required Python 2.6)
 - CSV file handling
 - Rule Base and Fact Base for data and logic handling
 
