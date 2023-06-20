@@ -32,6 +32,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
    7. [Sequence Prediction ANN](#7-sequence-prediction-ann)
    8. [Naive Bayes Golf Prediction](#8-naive-bayes-golf-prediction)
    9. [8-Puzzle Solver](#9-8-puzzle-solver)
+   10. [Healthcare Expert Systems: A Heart Failure Telemonitoring Case Study](#10-healthcare-expert-systems-a-heart-failure-telemonitoring-case-study)
 6. [Contact](#-contact)
 
 
@@ -82,6 +83,7 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 - [**Sequence Prediction ANN**](#7-sequence-prediction-ann) - A Python implementation of a simple Artificial Neural Network (ANN) for predicting the next number in a given sequence, using NumPy and scikit-learn.
 - [**Naive Bayes Golf Prediction**](#8-naive-bayes-golf-prediction) - A Python implementation of a Naive Bayes classifier for predicting golf play based on the weather outlook, demonstrating the Laplacian correction technique, and incorporating UML diagrams for clear understanding.
 - [**8-Puzzle Solver**](#9-8-puzzle-solver) - A Python-based solution to solve the classic 8-puzzle game using the A* search algorithm, capable of checking puzzle solvability and calculating solution time. The project includes comprehensive diagrams for clear understanding and a user-friendly console interface.
+- [**Healthcare Expert System with Pyke**](#10-healthcare-expert-systems-a-heart-failure-telemonitoring-case-study) - A Python implementation of a rule-based expert system for heart failure telemonitoring, inspired by Seto et al.'s research. The system utilizes the Pyke engine and includes a comprehensive rule base and a fact base. It demonstrates the application of forward-chaining in reasoning with a healthcare-specific rule set. The project is complete with detailed documentation and interactive diagrams for clear understanding.
 
 ### 1. [K-Nearest Neighbors Classifier](https://github.com/sminerport/iris-knn-classifier)
 
@@ -193,9 +195,24 @@ Hi, I'm Scott, an award-winning data analyst and software engineer with 6+ years
 
 **Sample use case:** The solver allows users to input any valid initial state of the 8-puzzle. The program will then use the A* algorithm to find a solution, displaying each step of the process as it goes. If the given puzzle is unsolvable, it will inform the user. The time taken to solve the puzzle is also recorded and displayed, offering a way to benchmark the performance of the algorithm.
 
+### 10. [Healthcare Expert Systems: A Heart Failure Telemonitoring Case Study](https://github.com/sminerport/healthcare-expert-system)
+
+**Short description:** This repository presents a Python-based expert system using the Pyke knowledge-based system to emulate a heart failure telemonitoring system. The project takes inspiration from the research of Seto et al. (2012), demonstrating how expert systems can significantly improve self-care and clinical management in healthcare scenarios.
+
+**Problem it solves:** The purpose of this project is to illustrate the potential of expert systems, particularly in healthcare. Expert systems can use collected data to provide specific, personalized advice or recommendations, thus improving patient self-care, clinical management, and overall patient outcomes.
+
+**Technologies used:**
+
+- Python 2.6 (Pyke Legacy Expert System)
+- Pyke
+- CSV file handling
+- Rule Base and Fact Base for data and logic handling
+
+**Sample use case:** The repository includes various rule sets in the rule base that monitor patient health, like detecting high body mass index, high blood pressure, and abnormal heart rate. A driver code executes the rule base against the fact base, providing the user with relevant recommendations based on the patient's vital signs. The project also considers the potential for future enhancements like integrating a question rule base and back-chaining rules into the expert system.
+
 ## 📧 Contact
 
-- Email: [scott.miner@csuglobal.edu](mailto:scott.miner@csuglobal.edu)
+- Email: [scott.miner.data.scientist@gmail.com](mailto:scott.miner.data.scientist@gmail.edu)
 - Phone: 720.660.7204
 - [Last.fm Profile](https://last.fm/user/scottdatascienc) - Just for fun!🎵
 - [Personal Website](https://scottminer.netlify.app) - Explore more Data Science projects!🚀💻
