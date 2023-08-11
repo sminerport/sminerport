@@ -52,7 +52,7 @@ Data Scientist with experience in data warehousing, machine learning algorithms,
   - Specialization in Artificial Intelligence and Machine Learning
   - GPA: 4.0
 
-- **Programming Specialist and Software Developer Certifications** - Red Rocks Community College, Lakewood, CO (2016-2017)
+- **Programming Specialist and Software Developer Certifications** - Red Rocks Community College, Lakewood, CO (2015-2017)
   - Recognized by instructor Dr. Julie Schneider for exceptional achievement in creating a highly efficient and high-quality C++ application with a well-designed user interface.
   - GPA: 4.0
 
@@ -60,6 +60,7 @@ Data Scientist with experience in data warehousing, machine learning algorithms,
 
 ## 💼 Experience
 
+- **Data Analyst/Librarian**, Vibrant Emotional Health | New York, NY (08/2023 - Present)
 - **Data Science Engineer**, Echo Global Logistics | Chicago, IL (01/2022 – 01/2023)
 - **Data Analyst**, Community College of Aurora | Aurora, CO (02/2020 – 06/2021)
 - **Senior SQL Server Developer**, MeritDirect | Rye Brook, NY (07/2018 – 09/2019)
