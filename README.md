@@ -214,6 +214,5 @@ Data Scientist with experience in data warehousing, machine learning algorithms,
 ## 📧 Contact
 
 - Email: [scott.miner.data.scientist@gmail.com](mailto:scott.miner.data.scientist@gmail.edu)
-- Phone: 720.660.7204
 - [Last.fm Profile](https://last.fm/user/scottdatascienc) - Just for fun!🎵
 - [Personal Website](https://scottminer.netlify.app) - Explore more Data Science projects!🚀💻
