@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 
 # Scott Miner
 
-Data Scientist with experience in data warehousing, machine learning algorithms, and software engineering best practices. I hold a Master of Science in Data Analytics, specializing in Artificial Intelligence and Machine Learning. Welcome to my GitHub portfolio, where you'll find some of the projects I've worked on and the technologies I've used.
+Hey there! I’m the kind of person who finds joy in data—whether it’s teasing out insights from numbers or building a slick new website. My career has been a bit of a journey through the tech world, with stops as a Data Science Engineer, Data Analyst, SQL Server Developer, and even a Data Conversion Specialist. But at heart, I just love making things work better through technology.
+
+I got my start with a B.A. in Psychology from the [University of Maryland, Baltimore County](https://www.umbc.edu/), where I not only delved into the human mind but also played tunes as part of the jazz bands under the legendary [Chris Vadala](https://music.umd.edu/faculty/music_directory/jazz_studies/chris_vadala). That experience harmonized perfectly with my academic path, which later led me to [Red Rocks Community College](https://www.rrcc.edu/) where I earned a double encore in tech with certifications in Software Development and Programming.
+
+The crescendo of my educational symphony was a Master of Science in Data Analytics from [CSU-Global](https://csuglobal.edu/), class of 2021, with a focus on the cutting-edge fields of AI and ML. My particular fascinations? [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) and [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) (NLP), fields where tech meets human perception and communication.
+
+When I’m not delving into datasets or getting lost in lines of code, I find relaxation and inspiration by watching a variety of YouTube videos. From Mixed Martial Arts to in-depth coding tutorials and beyond, these videos fuel my passion for continuous learning and keep me updated on the latest trends and techniques. My world is one where creativity meets logic—whether I'm exploring the intricacies of web development, or marveling at the complexities of machine learning and data visualization, it’s all about finding the harmony in chaos and the patterns that lead to insights. I’m eager to connect and collaborate, so let’s see what stories we can tell through data and how we can make it sing!
 
 ## TOC
 1. [Awards and Certifications](#-awards-and-certifications)
