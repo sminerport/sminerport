@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Innovator's Profile: Scott Miner's Tech and Data Journey
+# Scott Miner's Tech and Data Journey
 
 Hey there! I’m the kind of person who finds joy in data—whether it’s teasing out insights from numbers or building a slick new website. My career has been a bit of a journey through the tech world, with stops as a Data Science Engineer, Data Analyst, SQL Server Developer, and even a Data Conversion Specialist. But at heart, I just love making things work better through technology.
 
