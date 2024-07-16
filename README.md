@@ -13,15 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Scott Miner's Tech and Data Journey
+# Bridging Data Analytics and Software Engineering
 
-Hey there! I’m the kind of person who finds joy in data—whether it’s teasing out insights from numbers or building a slick new website. My career has been a bit of a journey through the tech world, with stops as a Data Science Engineer, Data Analyst, SQL Server Developer, and even a Data Conversion Specialist. But at heart, I just love making things work better through technology.
+Driven by a lifelong fascination with problem-solving and technology, I have carved a distinctive path through the tech landscape, blending rigorous academic training with hands-on professional experience. Beginning with a B.A. in Psychology from the University of Maryland, where I also deepened my passion for music as a jazz guitarist, I transitioned into technology during a time of personal and economic uncertainty.
 
-I got my start with a B.A. in Psychology from the [University of Maryland, Baltimore County](https://www.umbc.edu/), where I not only delved into the human mind but also played tunes as part of the jazz bands under the legendary [Chris Vadala](https://arhu.umd.edu/news/chris-vadala-jazz-legend-scholar-and-educator-dies-age-70). That experience harmonized perfectly with my academic path, which later led me to [Red Rocks Community College](https://www.rrcc.edu/) where I earned a double encore in tech with certifications in Software Development and Programming.
+My technical journey accelerated at Red Rocks Community College, where under the mentorship of Dr. Julie Schneider and inspired by my father's academic background, I excelled in Software Development and Programming, earning top accolades for my coding prowess. This foundation led me to specialized roles in data conversion and ETL development, where I took pride in my ability to streamline complex data systems and enhance operational efficiencies.
 
-The crescendo of my educational symphony was a Master of Science in Data Analytics from [CSU-Global](https://csuglobal.edu/), class of 2021, with a focus on the cutting-edge fields of AI and ML. My particular fascinations? [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) and [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) (NLP), fields where tech meets human perception and communication.
+Achieving a Master’s degree in Data Analytics from CSU-Global with a 4.0 GPA, I specialized in AI and ML, diving into advanced programming and data analysis in R, Python, and SAS. My professional roles have showcased versatile accomplishments:
 
-When I’m not delving into datasets or getting lost in lines of code, I find relaxation and inspiration by watching a variety of YouTube videos. From Mixed Martial Arts to in-depth coding tutorials and beyond, these videos fuel my passion for continuous learning and keep me updated on the latest trends and techniques. My world is one where creativity meets logic—whether I'm exploring the intricacies of web development, or marveling at the complexities of machine learning and data visualization, it’s all about finding the harmony in chaos and the patterns that lead to insights. I’m eager to connect and collaborate, so let’s see what stories we can tell through data and how we can make it sing!
+- **At Echo Global Logistics**, I led the automation of CI/CD pipelines and the deployment of AWS optimized infrastructures, significantly reducing model training times and playing a pivotal role in winning the 2022 Excellence in Analytics Award.
+- **As a Data Analyst at Community College of Aurora**, I conducted cohort analyses and created Tableau dashboards that enhanced retention and enrollment strategies, boosting key performance metrics.
+- **At MeritDirect**, my development of C# applications for bulk data processing and maintenance of ETL packages supported the management of data warehouses with over 7 billion records.
+- **In my role at Journal Technologies**, I managed critical data migrations for municipal courts, significantly improving system transitions and operational efficiencies.
+
+Beyond the technical, my early adventures in the rudimentary realms of the internet, from hacking tutorials to creative problem-solving in electronics and video gaming, have ingrained a deep-seated skill for intuitive and user-centric design. Today, I continue to integrate this passion with my work, aiming to make each project not only functionally excellent but also a pleasure to interact with.
+
+I am eager to collaborate with others who are passionate about harnessing the power of data and technology to solve real-world problems. Let’s connect and explore how we can push the boundaries of what's possible.
 
 ## TOC
 1. [Awards and Certifications](#-awards-and-certifications)
