@@ -4,3 +4,7 @@ venv-sminerport/
 *.code-workspace
 .vscode/
 scripts/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
