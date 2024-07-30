@@ -13,5 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# About Me
+
 ## GitHub Contributions
+
+### Dark Theme
+Check out the interactive dark theme [here](https://sminerport.github.io/sminerport/contributions_plot_dark.html).
+
+### Light Theme
+Check out the interactive light theme [here](https://sminerport.github.io/sminerport/contributions_plot_light.html).
+
+I am a software developer with a passion for problem-solving, software development, HTML, CSS, and Java coding. I enjoy weightlifting and am left-handed. Check out my personal projects on my [website](https://scottminer.netlify.app).
+
 
