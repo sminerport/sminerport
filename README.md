@@ -8,6 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sminerport&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
 </p>
 
+
 <!-- Trophies Centered -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />
