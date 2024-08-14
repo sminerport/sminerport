@@ -13,14 +13,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-
-      - name: Set up SSH
-        uses: webfactory/ssh-agent@v0.5.3
-        with:
-          ssh-private-key: ${{ secrets.GH_SECRET_SSH }}
-          ssh-passphrase: ${{ secrets.SSH_PASSPHRASE }}
 
       - name: Update README.md
         run: |
@@ -31,7 +23,7 @@ jobs:
 
           echo '<!-- GitHub Stats Centered -->' >> README.md
           echo '<p align="center">' >> README.md
-          echo '<img src="https://github-readme-stats.vercel.app/api?username=sminerport&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />' >> README.md
+          echo '<img src="https://github-readme-stats.vercel.app/api?username=sminerport&show_icons=true&theme=default&count_private=true&token=${{ secrets.GH_TOKEN }}" alt="GitHub Stats" />' >> README.md
           echo '</p>' >> README.md
 
           echo '<!-- Trophies Centered -->' >> README.md
@@ -43,11 +35,15 @@ jobs:
           echo '<p align="center">' >> README.md
           echo '<img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />' >> README.md
           echo '</p>' >> README.md
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name 'sminerport'
-          git config --global user.email 'scott.miner.data.scientist@gmail.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m "Update README.md with stats and visuals"
-          git push origin HEAD:test-workflow
+          git push origin master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
