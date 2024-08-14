@@ -1,0 +1,32 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - test-workflow  # or your default branch
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Run Script to Update README
+      env:
+        GH_README_STATS_TOKEN: ${{ secrets.GH_README_STATS_TOKEN }}
+      run: |
+        echo '<!-- Most Used Languages Centered -->' > README.md
+        echo '<p align="center">' >> README.md
+        echo '<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=default&token=${{ secrets.GH_README_STATS_TOKEN }}" alt="Top Languages" />' >> README.md
+        echo '</p>' >> README.md
+
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+
+        git add README.md
+        git commit -m "Update README.md with stats and visuals"
+
+        # Push using the personal access token
+        git push https://${{ secrets.GH_README_STATS_TOKEN }}@github.com/sminerport/sminerport.git HEAD:test-github-stats-api
