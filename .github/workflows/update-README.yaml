@@ -20,6 +20,7 @@ jobs:
         uses: webfactory/ssh-agent@v0.5.3
         with:
           ssh-private-key: ${{ secrets.GH_SECRET_SSH }}
+          ssh-passphrase: ${{ secrets.SSH_PASSPHRASE }}
 
       - name: Update README.md
         run: |
