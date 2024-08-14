@@ -1,32 +1,52 @@
-name: Update README
+name: Update README with GitHub Stats
 
 on:
   push:
     branches:
-      - test-workflow  # or your default branch
+      - test-workflow
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
-    - name: Run Script to Update README
-      env:
-        GH_README_STATS_TOKEN: ${{ secrets.GH_README_STATS_TOKEN }}
-      run: |
-        echo '<!-- Most Used Languages Centered -->' > README.md
-        echo '<p align="center">' >> README.md
-        echo '<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=default&token=${{ secrets.GH_README_STATS_TOKEN }}" alt="Top Languages" />' >> README.md
-        echo '</p>' >> README.md
+      - name: Set up SSH
+        uses: webfactory/ssh-agent@v0.5.3
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --global user.name "github-actions[bot]"
+      - name: Update README.md
+        run: |
+          echo '<!-- Most Used Languages Centered -->' > README.md
+          echo '<p align="center">' >> README.md
+          echo '<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=default" alt="Top Languages" />' >> README.md
+          echo '</p>' >> README.md
 
-        git add README.md
-        git commit -m "Update README.md with stats and visuals"
+          echo '<!-- GitHub Stats Centered -->' >> README.md
+          echo '<p align="center">' >> README.md
+          echo '<img src="https://github-readme-stats.vercel.app/api?username=sminerport&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />' >> README.md
+          echo '</p>' >> README.md
 
-        # Push using the personal access token
-        git push https://${{ secrets.GH_README_STATS_TOKEN }}@github.com/sminerport/sminerport.git HEAD:test-github-stats-api
+          echo '<!-- Trophies Centered -->' >> README.md
+          echo '<p align="center">' >> README.md
+          echo '<img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />' >> README.md
+          echo '</p>' >> README.md
+
+          echo '<!-- Snake Game Centered -->' >> README.md
+          echo '<p align="center">' >> README.md
+          echo '<img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />' >> README.md
+          echo '</p>' >> README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'sminerport'
+          git config --global user.email 'scott.miner.data.scientist@gmail.com'
+          git add README.md
+          git commit -m "Update README.md with stats and visuals"
+          git push origin HEAD:test-workflow
