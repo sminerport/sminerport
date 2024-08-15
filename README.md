@@ -4,7 +4,7 @@
 </p>
 <!-- GitHub Stats Centered -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sminerport&show_icons=true&theme=default&count_private=true&token=${GH_TOKEN}" alt="GitHub Stats" />
+<img src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=default&count_private=true&token=${GH_TOKEN}" alt="GitHub Stats" />
 </p>
 <!-- Trophies Centered -->
 <p align="center">
