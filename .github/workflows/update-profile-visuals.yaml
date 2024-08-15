@@ -11,7 +11,7 @@ permissions:
   actions: read # Allows reading actions, which is needed for the workflow to execute
 
 jobs:
-  update-readme:
+  update-profile-visuals:
     runs-on: ubuntu-latest
 
     steps:
