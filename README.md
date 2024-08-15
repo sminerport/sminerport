@@ -1,6 +1,6 @@
 <!-- Most Used Languages Centered -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=default&token=${GH_README_STATS_TOKEN}" alt="Top Languages" />
+<img src="github-readme-stats-five-alpha-68.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=default&token=${GH_README_STATS_TOKEN}" alt="Top Languages" />
 </p>
 <!-- GitHub Stats Centered -->
 <p align="center">
