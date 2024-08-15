@@ -2,7 +2,7 @@
 
 echo '<!-- Most Used Languages Centered -->' > README.md
 echo '<p align="center">' >> README.md
-echo '<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=default&token=${GH_README_STATS_TOKEN}" alt="Top Languages" />' >> README.md
+echo '<img src="github-readme-stats-five-alpha-68.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=default&token=${GH_README_STATS_TOKEN}" alt="Top Languages" />' >> README.md
 echo '</p>' >> README.md
 
 # GitHub Stats Centered
