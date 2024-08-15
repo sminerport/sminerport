@@ -14,7 +14,7 @@ echo '</p>' >> README.md
 # Trophies Centered
 echo '<!-- Trophies Centered -->' >> README.md
 echo '<p align="center">' >> README.md
-echo '<img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />' >> README.md
+echo '<img src="https://github-readme-stats-five-alpha-68.vercel.app/?username=sminerport&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />' >> README.md
 echo '</p>' >> README.md
 
 # Snake Game Centered
