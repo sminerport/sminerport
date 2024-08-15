@@ -12,5 +12,5 @@
 </p>
 <!-- Snake Game Centered -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+<img src="https://sminerport.github.io/snk/github-contribution-grid-snake.gif" alt="Snake Game" />
 </p>
