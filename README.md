@@ -12,5 +12,7 @@
 </p>
 <!-- Snake Game Centered -->
 <p align="center">
+<object data="https://sminerport.github.io/snk/github-contribution-grid-snake.gif" type="image/gif">
 <img src="https://sminerport.github.io/snk/github-contribution-grid-snake.gif" alt="Snake Game" />
+</object>
 </p>
