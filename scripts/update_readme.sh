@@ -8,7 +8,7 @@ echo '</p>' >> README.md
 # GitHub Stats Centered
 echo '<!-- GitHub Stats Centered -->' >> README.md
 echo '<p align="center">' >> README.md
-echo '<img src="https://github-readme-stats.vercel.app/api?username=sminerport&show_icons=true&theme=default&count_private=true&token=${GH_TOKEN}" alt="GitHub Stats" />' >> README.md
+echo '<img src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=default&count_private=true&token=${GH_TOKEN}" alt="GitHub Stats" />' >> README.md
 echo '</p>' >> README.md
 
 # Trophies Centered
