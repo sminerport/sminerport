@@ -8,7 +8,7 @@
 </p>
 <!-- Trophies Centered -->
 <p align="center">
-<img src="https://github-readme-stats-five-alpha-68.vercel.app/?username=sminerport&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 <!-- Snake Game Centered -->
 <p align="center">
