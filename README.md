@@ -11,6 +11,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 <!-- Snake Game Centered -->
-<p align="center">
 ![Snake Game](https://sminerport.github.io/snk/github-contribution-grid-snake.gif)
-</p>
