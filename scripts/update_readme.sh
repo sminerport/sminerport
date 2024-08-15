@@ -20,5 +20,5 @@ echo '</p>' >> README.md
 # Snake Game Centered
 echo '<!-- Snake Game Centered -->' >> README.md
 echo '<p align="center">' >> README.md
-echo '![Snake Game](https://sminerport.github.io/snk/github-contribution-grid-snake.gif)' >> README.m
+echo '![Snake Game](https://sminerport.github.io/snk/github-contribution-grid-snake.gif)' >> README.md
 echo '</p>' >> README.md
