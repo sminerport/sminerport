@@ -7,7 +7,7 @@
 ## Contribution Snake Game 🐍
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+<img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
 </p>
 
 ---
