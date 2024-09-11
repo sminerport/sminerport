@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.last.fm/user/ScottDataScienc">
-    <img src="https://lastfm-henna.vercel.app/api?user=ScottDataScienc&loved=true&loved_style=3&border_radius=25&header_style=normal_stats&show_user=always&footer_style=wave&count=5&width=550" alt="Last.fm Recently Played">
+    <img src="https://lastfm-henna.vercel.app/api?user=ScottDataScienc&loved=true&loved_style=3&border_radius=5&header_style=normal_stats&show_user=always&footer_style=wave&count=5&width=480" alt="Last.fm Recently Played">
   </a>
 </p>
 
