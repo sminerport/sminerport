@@ -8,13 +8,9 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
 </p>
-
----
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
