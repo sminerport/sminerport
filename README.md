@@ -1,18 +1,7 @@
-## Now Playing on Spotify 🎧
 <p align="center">
-<img src="https://spotify-now-playing-rust.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <img src="https://spotify-now-playing-rust.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </p>
 
----
-
-## Contribution Snake Game 🐍
-<p align="center">
-<img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
-</p>
-
----
-
-## Last.fm Recently Played 🎵
 <p align="center">
   <a href="https://www.last.fm/user/ScottDataScienc">
     <img src="https://lastfm-henna.vercel.app/api?user=ScottDataScienc&loved=true&loved_style=3&border_radius=15&header_style=normal_stats&show_user=always&footer_style=wave&count=5" alt="Last.fm Recently Played">
@@ -21,15 +10,19 @@
 
 ---
 
-## GitHub Stats & Most Used Languages 📊
 <p align="center">
-<img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-<img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
 </p>
 
 ---
 
-## Trophies 🏆
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=monokai&no-frame=true&margin-w=15" alt="Trophies" />
+  <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=monokai&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
