@@ -1,6 +1,6 @@
 <!-- Static Name Image with Effects -->
 <p align="center">
-  <img src="./images/scott-miner-shadow.png" alt="Scott Miner" style="max-width: 100%; margin-bottom: 25t px; margin-top: 20px">
+  <img src="./images/scott-miner-shadow.png" alt="Scott Miner" style="max-width: 100%; margin-bottom: 25px; margin-top: 20px">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg-t7no.onrender.com?font=Fira+Code&weight=400&size=20&pause=1000&color=FF4444&center=true&width=800&lines=I+enjoy+solving+technical+problems...;...especially+when+things+are+working!;Lately%2C+more+has+been+working+than+not...;...so+I+can't+complain!;Professionally%2C+I've+worn+many+hats...;...Data+Engineer%2C+Analyst%2C+Scientist%2C+%26+Software+Engineer!;I+love+design%2C+automation%2C+%26+crafting+quality+products...;...in+programming%2C+web+design%2C+%26+machine+learning!;When+I'm+not+coding...;...you+can+find+me+listening+to+music+or+strength+training!" alt="Typing SVG">
 
