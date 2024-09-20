@@ -63,7 +63,6 @@ __pycache__/
 
 # Ignore images folder if you want to exclude all images
 # Otherwise, remove this line if you want to track images
-images/
 
 # Ignore system files (Optional)
 .DS_Store
