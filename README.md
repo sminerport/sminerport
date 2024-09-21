@@ -3,7 +3,7 @@
   <img src="./images/scott-miner-glitch-36f.png" alt="Scott Miner" style="max-width: 100%; margin-top: 20px">
 </p>
 
----
+
 <!-- Typing SVG -->
 ## 👋 About Me
 <p align="center">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
----
+
 
 <!-- Spotify Now Playing Widget -->
 ## 🎧 Music I'm Listening To
@@ -27,7 +27,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ Tools & Languages
 
@@ -100,7 +100,7 @@
   </a>
 </p>
 
----
+
 
 ## 🏆 GitHub Trophies
 <!-- GitHub Trophies (Excluding 'Reviews') -->
@@ -108,7 +108,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=algolia&no-frame=true&margin-w=15&title=-Reviews" alt="Trophies" />
 </div>
 
----
+
 
 ## 🍂 Eat the Commits!
 <!-- Snake Game (GitHub Contribution Graph) -->
@@ -116,7 +116,7 @@
   <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <!-- GitHub Stats -->
@@ -125,4 +125,3 @@
   <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
----
