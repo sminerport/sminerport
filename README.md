@@ -108,9 +108,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=algolia&no-frame=true&margin-w=15&title=-Reviews" alt="Trophies" />
 </div>
 
-<h1 style="margin-bottom:-50px">🍂 Eat the Commits!</h1>
+<h1 style="margin-bottom:-30px">🍂 Eat the Commits!</h1>
 <!-- Snake Game (GitHub Contribution Graph) -->
-<p align="center">
+<p align="center" style="margin-top:-40px">
   <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
 </p>
 
