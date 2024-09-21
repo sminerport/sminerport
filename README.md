@@ -92,8 +92,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sminerport/BubbleSort" target="_blank">
-    <img src="https://img.shields.io/badge/Current_Project-Bubble_Sort-2bbc8a?style=flat-square&logo=github" alt="Current Project Badge" />
+  <a href="https://github.com/sminerport/SortVisualizer" target="_blank">
+    <img src="https://img.shields.io/badge/Current_Project-Sort_Visualizer-2bbc8a?style=flat-square&logo=github" alt="Current Project Badge" />
   </a>
 </p>
 
