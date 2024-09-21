@@ -5,7 +5,7 @@
 
 
 <!-- Typing SVG -->
-## 👋 About Me
+# 👋 About Me
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg-t7no.onrender.com?font=Fira+Code&weight=435&size=32f&duration=500&pause=1000&color=FF4444&center=true&width=800&lines=Hi!+I'm+Scott!;I+enjoy+solving+technical+problems...;...especially+when+things+are+working!;Lately%2C+more+has+been+working+than+not...;...so+I+can't+complain!;Professionally%2C+I've+worn+many+hats...;...Data+Engineer%2C+Analyst%2C+Scientist...;...%26+Software+Engineer!;I+love+design%2C+automation...;...%26+crafting+quality+products...;...in+programming%2C+web+design%2C+%26+ML!;When+I'm+not+coding...;...you+can+find+me...;...listening+to+music...;...or+strength+training!;Let's+connect!;Have+a+good+day!" alt="Typing SVG (Reload if Broken Link)">
@@ -15,7 +15,7 @@
 
 
 <!-- Spotify Now Playing Widget -->
-## 🎧 Music I'm Listening To
+# 🎧 Music I'm Listening To
 <p align="center">
   <img src="https://spotify-now-playing-rust.vercel.app/api/spotify?background_color=212121" alt="Spotify Now Playing" />
 </p>
@@ -29,7 +29,7 @@
 
 
 
-## 🛠️ Tools & Languages
+# 🛠️ Tools & Languages
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
@@ -102,7 +102,7 @@
 
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 <!-- GitHub Trophies (Excluding 'Reviews') -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=algolia&no-frame=true&margin-w=15&title=-Reviews" alt="Trophies" />
@@ -116,7 +116,7 @@
 
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <!-- GitHub Stats -->
 <p align="center">
   <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
