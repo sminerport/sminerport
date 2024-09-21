@@ -71,6 +71,7 @@
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=black" alt="Pandas Badge" />
   </a>
+
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=blue" alt="React Badge" />
   </a>
