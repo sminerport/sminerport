@@ -9,6 +9,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg-t7no.onrender.com?font=Fira+Code&weight=435&size=32f&duration=500&pause=1000&color=FF4444&center=true&width=800&lines=Hi!+I'm+Scott!;I+enjoy+solving+technical+problems...;...especially+when+things+are+working!;Lately%2C+more+has+been+working+than+not...;...so+I+can't+complain!;Professionally%2C+I've+worn+many+hats...;...Data+Engineer%2C+Analyst%2C+Scientist...;...%26+Software+Engineer!;I+love+design%2C+automation...;...%26+crafting+quality+products...;...in+programming%2C+web+design%2C+%26+ML!;When+I'm+not+coding...;...you+can+find+me+listening+to+music...;...or+strength+training!;Let's+connect!+Have+a+good+day!" alt="Typing SVG (Reload if Broken Link)">
   </a>
+   <!-- Snake Game (GitHub Contribution Graph) -->
+  <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
 </p>
 
 <!-- Spotify Now Playing Widget -->
@@ -106,9 +108,4 @@
 <p align="center">
   <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
   <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=algolia" alt="Top Languages" />
-</p>
-
-<!-- Snake Game (GitHub Contribution Graph) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
 </p>
