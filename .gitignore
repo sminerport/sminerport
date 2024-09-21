@@ -240,3 +240,6 @@ htmlcov/
 .pytest_cache/
 .tox/
 >>>>>>> fd84bc5 (scripts to generate contribution graphs and update .gitignore for Visual Studio and update README.md with contribution graphs)
+
+# Canvas files
+*.Identifer
