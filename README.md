@@ -109,10 +109,8 @@
 </div>
 
 
-
-## 🍂 Eat the Commits!
 <!-- Snake Game (GitHub Contribution Graph) -->
-<p align="center" style="margin-top:-50px">
+<p align="center">
   <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
 </p>
 
