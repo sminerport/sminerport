@@ -108,6 +108,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=algolia&no-frame=true&margin-w=15&title=-Reviews" alt="Trophies" />
 </div>
 
+# 📊 GitHub Stats
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
 
 <!-- Snake Game (GitHub Contribution Graph) -->
 <p align="center">
@@ -116,10 +122,4 @@
 
 
 
-# 📊 GitHub Stats
-<!-- GitHub Stats -->
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=algolia" alt="Top Languages" />
-</p>
 
