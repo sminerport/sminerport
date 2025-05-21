@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/feed"
+          disable_item_validation: true # Disables validation of individual feed items, useful for custom or non-standard feeds
