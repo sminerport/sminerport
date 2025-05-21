@@ -26,6 +26,13 @@
   </a>
 </p>
 
+## 📜 Latest Blog Posts
+
+[Subscribe via RSS](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/feed)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # 🛠️ Tools & Languages
 
 <p align="center">
