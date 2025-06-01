@@ -10,18 +10,22 @@ on:
       - prod
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Generate 3D contribution files
         uses: yoshi389111/github-profile-3d-contrib@latest
-        with:
-          user_name: sminerport
-          output_dir: profile-3d-contrib
-          token: ${{ secrets.PAT_3D }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_3D }}   # Use your PAT here (or secrets.GITHUB_TOKEN for public only)
+          USERNAME: sminerport                  # Your GitHub username
+
       - name: Commit files
         run: |
           git config user.name 'github-actions'
