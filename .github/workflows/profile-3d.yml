@@ -3,7 +3,15 @@ name: Update 3D contribution graph
 on:
   schedule:
     - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+      - dev
+      - prod
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,12 +19,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Generate 3D contribution files
-        uses: yoshi389111/github-profile-3d-contrib@v2
-        with:
-          user_name: sminerport
-          output_dir: profile-3d-contrib
-          token: ${{ secrets.PAT_3D }}
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_3D }}   # Use your PAT here (or secrets.GITHUB_TOKEN for public only)
+          USERNAME: sminerport                  # Your GitHub username
+
       - name: Commit files
         run: |
           git config user.name 'github-actions'
