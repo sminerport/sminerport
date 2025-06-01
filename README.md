@@ -1,6 +1,6 @@
 <!-- Static Name Image with Glitch Effects -->
 <p align="center">
-  <img src="./images/scott-miner-glitch-36f.png" alt="Scott Miner" style="max-width: 100%; margin-top: 20px">
+  <img src="./images/scott-miner-glitch-transparent.png" alt="Scott Miner" style="max-width: 100%; margin-top: 20px">
 </p>
 
 <!-- Typing SVG -->
