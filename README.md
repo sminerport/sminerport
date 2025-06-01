@@ -13,6 +13,11 @@
   <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
 </p>
 
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph"/>
+</p>
+
 
 # 📜 Latest Blog Posts
 
