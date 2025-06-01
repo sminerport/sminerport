@@ -13,6 +13,103 @@
   <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" alt="Snake Game" />
 </p>
 
+
+# 📜 Latest Blog Posts
+
+[Subscribe via RSS](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/feed)
+
+<!-- This marker is used by a GitHub Actions workflow to automatically inject the latest blog posts. -->
+<!-- BLOG-POST-LIST:START -->
+- [Setting Up Your ASP.NET Core Development Environment: A Beginner’s Guide](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=setting-up-aspnet-core-development-environment)
+- [Comparing ASP.NET Web Forms, ASP.NET MVC, and ASP.NET Core](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=comparing-aspnet-web-forms-aspnet-mvc-aspnet-core)
+- [Introduction to ASP.NET Core: A Modern, Cross-Platform Web Framework](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=introduction-aspnet-core-modern-cross-platform)
+- [My Blog Is Officially Live!](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=my-blog-is-officially-live)
+<!-- BLOG-POST-LIST:END -->
+# 🔭 Current Project
+<p align="center">
+  <a href="https://github.com/sminerport/SortVisualizer" target="_blank">
+    <img src="https://img.shields.io/badge/Current_Project-Sort_Visualizer-2bbc8a?style=for-the-badge&logo=github" alt="Current Project Badge" />
+  </a>
+</p>
+
+# 🛠️ Tools & Languages
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=00599C" alt="C Badge" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=blue" alt="C++ Badge" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=blue" alt="CSS3 Badge" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=red" alt="Java Badge" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow" alt="JavaScript Badge" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a" alt="Python Badge" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=r&logoColor=white&color=276DC3" alt="R Badge" />
+  </a>
+  <a href="https://www.sas.com/en_us/home.html" target="_blank">
+    <img src="https://img.shields.io/badge/Code-SAS-informational?style=for-the-badge&logo=sas&logoColor=white&color=blue" alt="SAS Badge" />
+  </a>
+  <a href="https://www.sql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=database&logoColor=white&color=blue" alt="SQL Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=purple" alt="Bootstrap Badge" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Framework-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=black" alt="Flask Badge" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Library-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=black" alt="Pandas Badge" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Library-React-informational?style=for-the-badge&logo=react&logoColor=white&color=blue" alt="React Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=blue" alt="Docker Badge" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=orange" alt="Git Badge" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=black" alt="Linux Badge" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=blue" alt="PostgreSQL Badge" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://img.shields.io/badge/Database-SQL_Server-informational?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=red" alt="SQL Server Badge" />
+  </a>
+</p>
+
+
+# 📊 GitHub Stats
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+# 🏆 GitHub Trophies
+<!-- GitHub Trophies (Excluding 'Reviews') -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=algolia&no-frame=true&margin-w=15&title=-Reviews" alt="Trophies" />
+</div>
+
 <!-- Spotify Now Playing Widget -->
 # 🎧 Music I'm Listening To
 <p align="center">
@@ -24,100 +121,4 @@
   <a href="https://www.last.fm/user/ScottDataScienc">
     <img src="https://lastfm-henna.vercel.app/api?user=ScottDataScienc&loved=true&loved_style=3&border_radius=5&header_style=normal_stats&show_user=always&footer_style=wave&count=5&width=480" alt="Last.fm Recently Played">
   </a>
-</p>
-
-## 📜 Latest Blog Posts
-
-[Subscribe via RSS](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/feed)
-
-<!-- This marker is used by a GitHub Actions workflow to automatically inject the latest blog posts. -->
-<!-- BLOG-POST-LIST:START -->
-- [Setting Up Your ASP.NET Core Development Environment: A Beginner’s Guide](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=setting-up-aspnet-core-development-environment)
-- [Comparing ASP.NET Web Forms, ASP.NET MVC, and ASP.NET Core](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=comparing-aspnet-web-forms-aspnet-mvc-aspnet-core)
-- [Introduction to ASP.NET Core: A Modern, Cross-Platform Web Framework](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=introduction-aspnet-core-modern-cross-platform)
-- [My Blog Is Officially Live!](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=my-blog-is-officially-live)
-<!-- BLOG-POST-LIST:END -->
-
-# 🛠️ Tools & Languages
-
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=00599C" alt="C Badge" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue" alt="C++ Badge" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue" alt="CSS3 Badge" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=red" alt="Java Badge" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow" alt="JavaScript Badge" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python Badge" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3" alt="R Badge" />
-  </a>
-  <a href="https://www.sas.com/en_us/home.html" target="_blank">
-    <img src="https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas&logoColor=white&color=blue" alt="SAS Badge" />
-  </a>
-  <a href="https://www.sql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=database&logoColor=white&color=blue" alt="SQL Badge" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=purple" alt="Bootstrap Badge" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=black" alt="Flask Badge" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=black" alt="Pandas Badge" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=blue" alt="React Badge" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue" alt="Docker Badge" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=orange" alt="Git Badge" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=black" alt="Linux Badge" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue" alt="PostgreSQL Badge" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.shields.io/badge/Database-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=red" alt="SQL Server Badge" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sminerport/SortVisualizer" target="_blank">
-    <img src="https://img.shields.io/badge/Current_Project-Sort_Visualizer-2bbc8a?style=flat-square&logo=github" alt="Current Project Badge" />
-  </a>
-</p>
-
-# 🏆 GitHub Trophies
-<!-- GitHub Trophies (Excluding 'Reviews') -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sminerport&theme=algolia&no-frame=true&margin-w=15&title=-Reviews" alt="Trophies" />
-</div>
-
-# 📊 GitHub Stats
-<!-- GitHub Stats -->
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api?username=sminerport&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-five-alpha-68.vercel.app/api/top-langs/?username=sminerport&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
