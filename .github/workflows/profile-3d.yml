@@ -3,6 +3,11 @@ name: Update 3D contribution graph
 on:
   schedule:
     - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+      - dev
+      - prod
   workflow_dispatch:
 
 jobs:
@@ -12,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Generate 3D contribution files
-        uses: yoshi389111/github-profile-3d-contrib@v2
+        uses: yoshi389111/github-profile-3d-contrib@latest
         with:
           user_name: sminerport
           output_dir: profile-3d-contrib
