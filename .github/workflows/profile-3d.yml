@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Generate 3D contribution files
-        uses: yoshi389111/github-profile-3d-contrib@v1
+        uses: yoshi389111/github-profile-3d-contrib@v2
         with:
           user_name: sminerport
           output_dir: profile-3d-contrib
