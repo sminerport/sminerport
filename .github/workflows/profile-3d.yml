@@ -18,12 +18,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # The graph includes private contributions only when generated with a
+      # personal access token (secret PAT_3D). Tokens expire, and an expired
+      # one used to fail this workflow every night, so check it first and
+      # fall back to the built-in token (public contributions only).
+      - name: Check whether PAT_3D is still valid
+        id: pat
+        env:
+          PAT_3D: ${{ secrets.PAT_3D }}
+        run: |
+          if [ -n "$PAT_3D" ] && curl -sf -H "Authorization: Bearer $PAT_3D" https://api.github.com/user > /dev/null; then
+            echo "valid=true" >> "$GITHUB_OUTPUT"
+            echo "Using PAT_3D (public + private contributions)."
+          else
+            echo "valid=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::PAT_3D is missing or expired; falling back to GITHUB_TOKEN (public contributions only). Create a new token and update the PAT_3D secret to include private contributions."
+          fi
+
       - name: Generate 3D contribution files
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          # The built-in token never expires. It counts public contributions,
-          # which is what visitors to the profile see anyway.
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.pat.outputs.valid == 'true' && secrets.PAT_3D || secrets.GITHUB_TOKEN }}
           USERNAME: sminerport
 
       - name: Commit files
