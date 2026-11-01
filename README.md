@@ -64,3 +64,11 @@ More projects are pinned below and listed under [repositories](https://github.co
     <img src="https://raw.githubusercontent.com/sminerport/sminerport/main/profile-3d-contrib/profile-green.svg" alt="3D contribution graph for the past year, regenerated nightly" width="100%">
   </picture>
 </p>
+
+## Listening to
+
+<p align="center">
+  <a href="https://www.last.fm/user/ScottDataScienc">
+    <img src="https://raw.githubusercontent.com/sminerport/sminerport/output/now-playing.svg" alt="What I'm listening to, via Last.fm. Refreshed every 30 minutes." width="480">
+  </a>
+</p>
