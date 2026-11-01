@@ -1,10 +1,13 @@
 name: Latest blog post workflow
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: '0 * * * *'   # hourly
+  workflow_dispatch:
+
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
+  pull-requests: write
 
 jobs:
   update-readme-with-blog:
@@ -13,7 +16,32 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+
+      # main only accepts pull requests, so the action commits to a bot branch
+      # and the last step turns any change into a merged pull request.
+      - name: Start a bot branch
+        run: |
+          git push origin --delete bot/blog-posts 2>/dev/null || true
+          git checkout -b bot/blog-posts
+          git push -u origin bot/blog-posts
+
+      - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/feed"
+          commit_message: "chore: update blog posts"
+
+      - name: Merge the change through a pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git fetch -q origin main bot/blog-posts
+          if [ "$(git rev-parse origin/bot/blog-posts)" != "$(git rev-parse origin/main)" ]; then
+            gh pr create --base main --head bot/blog-posts \
+              --title "chore: update blog posts" \
+              --body "Automated update from the blog feed."
+            gh pr merge bot/blog-posts --merge --delete-branch
+          else
+            echo "Blog list unchanged; nothing to merge."
+            git push origin --delete bot/blog-posts
+          fi

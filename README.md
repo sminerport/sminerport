@@ -60,8 +60,8 @@ More projects are pinned below and listed under [repositories](https://github.co
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sminerport/sminerport/main/profile-3d-contrib/profile-night-green.svg">
-    <img src="https://raw.githubusercontent.com/sminerport/sminerport/main/profile-3d-contrib/profile-green.svg" alt="3D contribution graph for the past year, regenerated nightly" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sminerport/sminerport/output/profile-3d-contrib/profile-night-green.svg">
+    <img src="https://raw.githubusercontent.com/sminerport/sminerport/output/profile-3d-contrib/profile-green.svg" alt="3D contribution graph for the past year, regenerated nightly" width="100%">
   </picture>
 </p>
 
