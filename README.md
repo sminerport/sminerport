@@ -51,6 +51,7 @@ More projects are pinned below and listed under [repositories](https://github.co
 - [Setting Up Your ASP.NET Core Development Environment: A Beginner’s Guide](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=setting-up-aspnet-core-development-environment)
 - [Comparing ASP.NET Web Forms, ASP.NET MVC, and ASP.NET Core](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=comparing-aspnet-web-forms-aspnet-mvc-aspnet-core)
 - [Introduction to ASP.NET Core: A Modern, Cross-Platform Web Framework](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=introduction-aspnet-core-modern-cross-platform)
+- [My Blog Is Officially Live!](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/Blogs?urlHandle=my-blog-is-officially-live)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Updated automatically every hour · [Subscribe via RSS](https://bloggie-efhpg4bbcsc0b2bz.westus2-01.azurewebsites.net/feed)</sub>
