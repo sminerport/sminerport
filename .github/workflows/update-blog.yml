@@ -23,7 +23,7 @@ jobs:
         run: |
           git push origin --delete bot/blog-posts 2>/dev/null || true
           git checkout -b bot/blog-posts
-          git config push.default current
+          git push -u origin bot/blog-posts
 
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
@@ -35,11 +35,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if git ls-remote --exit-code --heads origin bot/blog-posts > /dev/null; then
+          git fetch -q origin main bot/blog-posts
+          if [ "$(git rev-parse origin/bot/blog-posts)" != "$(git rev-parse origin/main)" ]; then
             gh pr create --base main --head bot/blog-posts \
               --title "chore: update blog posts" \
               --body "Automated update from the blog feed."
             gh pr merge bot/blog-posts --merge --delete-branch
           else
             echo "Blog list unchanged; nothing to merge."
+            git push origin --delete bot/blog-posts
           fi
