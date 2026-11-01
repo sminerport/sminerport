@@ -8,9 +8,10 @@ on:
 permissions:
   contents: write
 
+# Everything that writes to the `output` branch shares this group so runs queue
+# instead of overwriting each other.
 concurrency:
-  group: now-playing
-  cancel-in-progress: true
+  group: output-branch
 
 jobs:
   render:
@@ -24,17 +25,10 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
         run: python3 scripts/now_playing.py --user ScottDataScienc --out dist/now-playing.svg
 
-      # The card lives on an orphan `output` branch that is rewritten every run,
-      # so main stays clean and the repository does not grow. The README embeds
+      # The README embeds
       # https://raw.githubusercontent.com/sminerport/sminerport/output/now-playing.svg
       - name: Publish to the output branch
         run: |
-          cd dist
-          git init -q -b output
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add now-playing.svg
-          git commit -q -m 'chore: update now-playing card'
-          git push -q --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
+          scripts/publish_output.sh dist 'chore: update now-playing card'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

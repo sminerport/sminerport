@@ -3,13 +3,15 @@ name: Update 3D contribution graph
 on:
   schedule:
     - cron: '0 0 * * *'   # nightly at 00:00 UTC
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
   contents: write
+
+# Everything that writes to the `output` branch shares this group so runs queue
+# instead of overwriting each other.
+concurrency:
+  group: output-branch
 
 jobs:
   build:
@@ -18,10 +20,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # The graph includes private contributions only when generated with a
-      # personal access token (secret PAT_3D). Tokens expire, and an expired
-      # one used to fail this workflow every night, so check it first and
-      # fall back to the built-in token (public contributions only).
+      # The graph includes private activity from the profile's contribution
+      # calendar. A personal access token (secret PAT_3D) additionally lets the
+      # radar and language charts see private repositories. Tokens expire, so
+      # check it first and fall back to the built-in token.
       - name: Check whether PAT_3D is still valid
         id: pat
         env:
@@ -29,10 +31,10 @@ jobs:
         run: |
           if [ -n "$PAT_3D" ] && curl -sf -H "Authorization: Bearer $PAT_3D" https://api.github.com/user > /dev/null; then
             echo "valid=true" >> "$GITHUB_OUTPUT"
-            echo "Using PAT_3D (public + private contributions)."
+            echo "Using PAT_3D."
           else
             echo "valid=false" >> "$GITHUB_OUTPUT"
-            echo "::warning::PAT_3D is missing or expired; falling back to GITHUB_TOKEN (public contributions only). Create a new token and update the PAT_3D secret to include private contributions."
+            echo "PAT_3D is missing or expired; using GITHUB_TOKEN."
           fi
 
       - name: Generate 3D contribution files
@@ -41,10 +43,12 @@ jobs:
           GITHUB_TOKEN: ${{ steps.pat.outputs.valid == 'true' && secrets.PAT_3D || secrets.GITHUB_TOKEN }}
           USERNAME: sminerport
 
-      - name: Commit files
+      # The README embeds
+      # https://raw.githubusercontent.com/sminerport/sminerport/output/profile-3d-contrib/<variant>.svg
+      - name: Publish to the output branch
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add profile-3d-contrib
-          git commit -m 'chore: update 3d contributions' || echo 'No changes'
-          git push
+          mkdir -p dist/profile-3d-contrib
+          cp profile-3d-contrib/*.svg dist/profile-3d-contrib/
+          scripts/publish_output.sh dist 'chore: update 3d contribution graph'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
