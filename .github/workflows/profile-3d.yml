@@ -2,12 +2,10 @@ name: Update 3D contribution graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # nightly at 00:00 UTC
   push:
     branches:
       - main
-      - dev
-      - prod
   workflow_dispatch:
 
 permissions:
@@ -23,15 +21,15 @@ jobs:
       - name: Generate 3D contribution files
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_3D }}   # Use your PAT here (or secrets.GITHUB_TOKEN for public only)
-          USERNAME: sminerport                  # Your GitHub username
+          # The built-in token never expires. It counts public contributions,
+          # which is what visitors to the profile see anyway.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: sminerport
 
       - name: Commit files
         run: |
-          git config user.name 'github-actions'
-          git config user.email 'actions@github.com'
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add profile-3d-contrib
           git commit -m 'chore: update 3d contributions' || echo 'No changes'
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_3D }}

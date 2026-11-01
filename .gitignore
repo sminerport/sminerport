@@ -1,73 +1,3 @@
-<<<<<<< HEAD
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# User-specific files (Mono Auto Generated)
-mono_crash.*
-
-# Mono auto generated files
-mono_crash.*
-
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# VS Code
-.vscode/
-
-# Visual Studio
-.vs/
-*.dbmdl
-*.pdb
-*.opendb
-*.pbi
-*.log
-*.pidb
-*.suo
-*.cache
-*.ilk
-*.userprefs
-bin/
-obj/
-
-# NuGet Packages
-*.nupkg
-packages/
-
-# Other
-*.DS_Store
-
-
-# Ignore Python virtual environment
-venv-sminerport/
-
-# Ignore environment variables file
-.env
-
-# Ignore Visual Studio Code workspace settings
-sminerport.code-workspace
-
-# Ignore Python bytecode files
-__pycache__/
-*.py[cod]
-
-# Ignore images folder if you want to exclude all images
-# Otherwise, remove this line if you want to track images
-
-# Ignore system files (Optional)
-.DS_Store
-Thumbs.db
-=======
 # Environment and virtual environments
 .env
 venv-sminerport/
@@ -239,7 +169,6 @@ htmlcov/
 # pytest
 .pytest_cache/
 .tox/
->>>>>>> fd84bc5 (scripts to generate contribution graphs and update .gitignore for Visual Studio and update README.md with contribution graphs)
 
 # Canvas files
 *.Identifer
