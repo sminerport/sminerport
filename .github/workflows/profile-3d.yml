@@ -38,7 +38,7 @@ jobs:
           fi
 
       - name: Generate 3D contribution files
-        uses: yoshi389111/github-profile-3d-contrib@latest
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ steps.pat.outputs.valid == 'true' && secrets.PAT_3D || secrets.GITHUB_TOKEN }}
           USERNAME: sminerport

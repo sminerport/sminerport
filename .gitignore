@@ -172,3 +172,6 @@ htmlcov/
 
 # Canvas files
 *.Identifer
+
+# Claude Code local notes
+.claude.local.md
